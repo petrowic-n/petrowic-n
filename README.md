@@ -1,16 +1,22 @@
-## Hi there 👋
+# Front-End Developer
 
-<!--
-**petrowic-n/petrowic-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about building fast, modern, and responsive web experiences. I focus on clean code, seamless UI/UX, and performance.
 
-Here are some ideas to get you started:
+## 💡 What I Do
+- Build pixel-perfect, responsive websites  
+- Design and prototype in **Figma**  
+- Create dynamic user interfaces with React & Vite  
+- Style with Tailwind CSS and Bootstrap  
+- Optimize for performance and accessibility  
+- Continuously ship real-world projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack  
+**Languages & Markup:** HTML, CSS, JavaScript  
+**Frameworks & Tools:** React, Vite, Tailwind CSS, Bootstrap  
+**Design:** Figma  
+**Workflow:** Git & GitHub, VS Code, Chrome DevTools  
+
+## 📬 Let’s Connect  
+Open to collaboration, freelance projects, and creative tech work.  
+Feel free to reach out!
+

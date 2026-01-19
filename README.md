@@ -11,10 +11,10 @@ Passionate about building fast, modern, and responsive web experiences. I focus 
 - Continuously ship real-world projects
 
 ## 🛠 Tech Stack  
-**Languages & Markup:** HTML, CSS, JavaScript  
-**Frameworks & Tools:** React, Vite, Tailwind CSS, Bootstrap  
+**Languages & Markup:** HTML, CSS, JavaScript, TypeScript  
+**Frameworks & Tools:** React, Vite, Tailwind CSS, Bootstrap, npm  
 **Design:** Figma  
-**Workflow:** Git & GitHub, VS Code, Chrome DevTools  
+**Workflow:** Git & GitHub, VS Code 
 
 ## 📬 Let’s Connect  
 Open to collaboration, freelance projects, and creative tech work.  

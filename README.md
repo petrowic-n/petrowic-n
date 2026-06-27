@@ -1,14 +1,6 @@
-# Front-End Developer
+# About Me
 
-Passionate about building fast, modern, and responsive web experiences. I focus on clean code, seamless UI/UX, and performance.
-
-## 💡 What I Do
-- Build pixel-perfect, responsive websites  
-- Design and prototype in **Figma**  
-- Create dynamic user interfaces with React & Vite  
-- Style with Tailwind CSS and Bootstrap  
-- Optimize for performance and accessibility  
-- Continuously ship real-world projects
+Software Engineer focused on building web applications and backend systems. I enjoy developing clean, efficient, and scalable software solutions, with a strong focus on backend development and full-stack web technologies. My main experience is in building projects using Python and Django, as well as working with modern frontend tools to create complete applications. I am continuously improving my skills and exploring new technologies, with a strong interest in AI and its integration into modern software systems.
 
 ## 🛠 Tech Stack  
 
@@ -19,8 +11,9 @@ Passionate about building fast, modern, and responsive web experiences. I focus 
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
